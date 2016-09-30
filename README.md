@@ -17,7 +17,7 @@ Feel free to give it any "game-like" 2D design.
 
 * [Android](https://developer.android.com/index.html)
   * Target SDK version 24
-  * Minimum SDK version 19
+  * Minimum SDK version 21
 * [Android Studio](https://developer.android.com/studio/index.html)
 
 
